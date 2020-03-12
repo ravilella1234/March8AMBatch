@@ -8,3 +8,7 @@ String Practices:
 -----------------
 https://www.javatpoint.com/java-string
 https://javaconceptoftheday.com/java-interview-programs-on-strings/
+
+Collections reference :
+-----------------------
+https://www.java2novice.com/java-collections-and-util/
